@@ -63,7 +63,7 @@ const Contact = () => {
               </div>
               <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
                 {/* Email link */}
-                <a href="mailto:ms5901562@gmail.com" className="text-indigo-500">ms5901562@gmail.com</a>
+                <a href="mailto:ms5901562@gmail.com" className="text-indigo-500">mahamteddy@gmail.com</a>
                 <p className="leading-normal my-5">
                   
                   
