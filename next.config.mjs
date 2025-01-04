@@ -7,6 +7,7 @@ const nextConfig = {
           hostname: 'fakestoreapi.com',
         },
       ],
+      domains: ['fakestoreapi.com'],  // Add fakestoreapi.com here too
     },
   };
   
